@@ -9,7 +9,7 @@ const Footer = () => {
           <ul>
             <li>
               Autódromo Óscar y Juan Gálvez - Av. Coronel Roca 6902, Buenos Aires - 
-              <a href="https://goo.gl/maps/XfsHCgg71eUH7Vur5" target="_blank">(Link GoogleMap)</a>
+              <a href="https://goo.gl/maps/XfsHCgg71eUH7Vur5" target="_blank" rel="noreferrer">(Link GoogleMap)</a>
             </li>
             <li>
               <a href="tel:+01146049100">Tel: 011-46049100</a>
